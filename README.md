@@ -1,0 +1,2 @@
+# about-solomon
+PWP DDCB
