@@ -12,3 +12,12 @@ Your Milestone passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/per
 
 ### Edits &amp; Suggestions
 - Minor thing: Keep an eye on indentation. Your &lt;p&gt; tags should be out-dented one level.
+
+## Milestone2 
+Your Content is lacking.  It is hard for me to determine what your strategy is for creating the content for PWP. Just out of curiosity how do you plan on splitting up your portfolios will they be on separate pages or sections?
+
+The Wireframes are also a little basic. It is hard for me to see a unifying strategy for creating the layout of the website. How will you handle navigation of the site? Will this site have more than one page or sections? You are also missing contact information and a contact form which is a requisite for passing PWP.  You seem to have three different portfolios you want to show. I would recommend thinking about maybe using a tool like Flickity or swipe box.  I also recommend that on the mobile view you have two portfolio boxes displayed instead of one, it allows for a much cleaner UI/UX. Finally, do you think that a hamburger button would be better for the mobile nav bar instead of having the links directly displayed?
+
+You are free to begin working on milestone 2b, but I recommend maybe spending a little more time ironing out the final details of the project before you begin.
+
+grade tier III 
