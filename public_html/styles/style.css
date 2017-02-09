@@ -1,19 +1,49 @@
-.header{
+#header{
+	width: 100%;
+	margin: 0 0;
+	background-color: #3B3DE8;
+}
+
+#header h1{
+	margin: auto auto ;
+	font-family: 'Montserrat:100i,400', sans-serif;
+	font-style: italic;
+	font-weight: lighter;
+	font-size: 10em;
+	text-align: center;
+	color: white;
+}
+
+#menu{
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	background-color: #FFD81F;
+}
+
+div#menu ul{
+	margin: auto auto;
+	text-align: center;
+	color: white;
+	height: 35px;
+}
+
+div#menu ul li{
+	list-style: none;
+	margin: auto 20px;
+	display: inline;
+	font-family: 'Montserrat:100i,400', sans-serif;
+	font-size: 1.25em;
+}
+
+#body{
 
 }
 
-.menu{
+#statement{
 
 }
 
-.body{
-
-}
-
-.statement{
-
-}
-
-.evidence{
+#evidence{
 
 }
