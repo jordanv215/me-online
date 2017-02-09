@@ -18,14 +18,14 @@
 	display: block;
 	margin: 0 auto;
 	text-align: center;
-	background-color: #FFD81F;
+	background-color: #5F87FF;
+	min-height: 35px;
 }
 
 div#menu ul{
 	margin: auto auto;
 	text-align: center;
 	color: white;
-	height: 35px;
 }
 
 div#menu ul li{
@@ -33,7 +33,7 @@ div#menu ul li{
 	margin: auto 20px;
 	display: inline;
 	font-family: 'Montserrat:100i,400', sans-serif;
-	font-size: 1.25em;
+	font-size: 1.15em;
 }
 
 #body{
