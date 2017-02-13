@@ -18,14 +18,14 @@
 		<link href="https://fonts.googleapis.com/css?family=Montserrat:100i,400" rel="stylesheet">
 
 		<!-- my custom CSS -->
-		<link rel="stylesheet" type="text/css" href="styles/style.css" />
+		<link rel="stylesheet" href="styles/style.css" type="text/css" />
 
 		<title>Failed To Load</title>
 	</head>
 	<body>
 		<header>
-			<div class="col-xs-12">
-
+			<div class="col-xs-12 col-md-12">
+				<h1 id="title">Me-Online.info</h1>
 			</div>
 		</header>
 		<main>

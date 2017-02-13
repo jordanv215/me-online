@@ -1,48 +1,8 @@
-
-#header{
-	width: 100%;
-	margin: 0 0;
-	background-color: #3B3DE8;
-}
-
-#header h1{
-	margin: auto auto ;
+h1{
 	font-family: 'Montserrat:100i,400', sans-serif;
+	font-size: 13em;
 	font-style: italic;
 	font-weight: lighter;
-	font-size: 10em;
+	margin: auto 50%;
 	text-align: center;
-	color: white;
-}
-
-#menu{
-	position: relative;
-	overflow: hidden;
-	width: 100%;
-	height: auto;
-	background-color: #1d00ff;
-	min-height: 35px;
-}
-
-
-.mItem{
-	list-style: none;
-	text-align: center;
-	display: inline-block;
-	font-family: 'Montserrat:100i,400', sans-serif;
-	font-size: 1em;
-	font-weight: lighter;
-	margin-top: 50px;
-}
-
-#body{
-
-}
-
-#statement{
-
-}
-
-#evidence{
-
 }
