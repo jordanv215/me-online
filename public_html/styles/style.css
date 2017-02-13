@@ -1,8 +1,24 @@
 h1{
 	font-family: 'Montserrat:100i,400', sans-serif;
-	font-size: 13em;
+	font-size: 12em;
 	font-style: italic;
 	font-weight: lighter;
-	margin: auto 50%;
+	margin: auto auto;
 	text-align: center;
+	background-color: #1d00ff;
+	color: white;
+}
+
+nav.navbar.navbar-inverse{
+	border: none;
+	border-radius: 0;
+	background: linear-gradient(#1d00ff, white);
+}
+
+#main-menu a{
+	color: white;
+	font-family: 'Montserrat:100i,400', sans-serif;
+	font-size: 1.25em;
+	font-style: italic;
+	font-weight: lighter;
 }

@@ -26,6 +26,18 @@
 		<header>
 			<div class="col-xs-12 col-md-12">
 				<h1 id="title">Me-Online.info</h1>
+				<nav class="navbar navbar-inverse">
+					<!-- here are your main nav links, grouped for toggling -->
+					<div class="collapse navbar-collapse" id="main-menu">
+						<ul class="nav navbar-nav">
+							<li><a href="#">Root</a></li>
+							<li><a href="#">Content Group 1</a></li>
+							<li><a href="#">Content Group 2</a></li>
+							<li><a href="#">Content Group 3</a></li>
+							<li><a href="#">Contact</a></li>
+						</ul>
+					</div>
+				</nav>
 			</div>
 		</header>
 		<main>
