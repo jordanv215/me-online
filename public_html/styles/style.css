@@ -1,3 +1,4 @@
+
 #header{
 	width: 100%;
 	margin: 0 0;
@@ -15,25 +16,23 @@
 }
 
 #menu{
-	display: block;
-	margin: 0 auto;
-	text-align: center;
-	background-color: #5F87FF;
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	height: auto;
+	background-color: #1d00ff;
 	min-height: 35px;
 }
 
-div#menu ul{
-	margin: auto auto;
-	text-align: center;
-	color: white;
-}
 
-div#menu ul li{
+.mItem{
 	list-style: none;
-	margin: auto 20px;
-	display: inline;
+	text-align: center;
+	display: inline-block;
 	font-family: 'Montserrat:100i,400', sans-serif;
-	font-size: 1.15em;
+	font-size: 1em;
+	font-weight: lighter;
+	margin-top: 50px;
 }
 
 #body{
