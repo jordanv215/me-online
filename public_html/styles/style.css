@@ -1,24 +1,45 @@
+#head{
+	background-color: #1d00ff;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
 h1{
 	font-family: 'Montserrat:100i,400', sans-serif;
 	font-size: 12em;
 	font-style: italic;
 	font-weight: lighter;
-	margin: auto auto;
+	margin: auto auto 0;
 	text-align: center;
-	background-color: #1d00ff;
 	color: white;
 }
 
-nav.navbar.navbar-inverse{
-	border: none;
-	border-radius: 0;
+#under-head{
 	background: linear-gradient(#1d00ff, white);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
-#main-menu a{
+ul.navbar{
+	margin: 20px 10px 0 10px;
+	padding: 0 0;
+	text-align: center;
+}
+
+li{
+	list-style: none;
+	display: inline;
+}
+
+li a{
+	margin: 10px 10px;
 	color: white;
 	font-family: 'Montserrat:100i,400', sans-serif;
-	font-size: 1.25em;
 	font-style: italic;
+	font-size: 1.3em;
 	font-weight: lighter;
 }
