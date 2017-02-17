@@ -25,7 +25,7 @@ h1{
 }
 
 ul.navbar{
-	margin: 20px 10px 0 10px;
+	margin: 0 10px 0 10px;
 	padding: 0 0;
 	text-align: center;
 }
@@ -33,13 +33,25 @@ ul.navbar{
 li{
 	list-style: none;
 	display: inline;
+	margin: 50px 10px;
 }
 
-li a{
+ul.navbar li a{
 	margin: 10px 10px;
 	color: white;
 	font-family: 'Montserrat:100i,400', sans-serif;
-	font-style: italic;
 	font-size: 1.3em;
 	font-weight: lighter;
+	padding: 10px;
+	border: 1px solid white;
+
+}
+
+ul.navbar li a:hover, a:focus{
+	font-style: italic;
+	text-decoration: none;
+}
+
+#content-1{
+
 }

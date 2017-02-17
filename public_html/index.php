@@ -41,8 +41,8 @@
 			</div>
 
 		</header>
-
 		<main>
+			<div class="col-xs-12 col-md-12" id = "content-1">
 		</main>
 
 		<footer>
