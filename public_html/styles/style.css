@@ -55,3 +55,19 @@ ul.navbar li a:hover, a:focus{
 #content-1{
 
 }
+
+.text {
+	width: 30%;
+	height: auto;
+
+}
+
+div.text p{
+	width: 50%;
+	margin: 5px 0;
+}
+
+#root, #content-1, #content-2, #content-3, #contact{
+	border: 1px solid black;
+	margin: 10px 10px;
+}
