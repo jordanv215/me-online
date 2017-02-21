@@ -59,13 +59,19 @@ ul.navbar li a:hover, a:focus{
 .text {
 	width: 30%;
 	height: auto;
-
+	display: flex;
+	align-items: center;
+	max-width: 30%;
+	text-align: left;
 }
 
 div.text p{
-	max-height: 100%;
+	padding: auto auto;
+	min-height: 100vh;
 	min-width: 75%;
-	margin: 5px 0;
+	margin: 15px auto auto 5px;
+	vertical-align: middle;
+	display: inline-block;
 }
 
 #root, #content-1, #content-2, #content-3, #contact{
