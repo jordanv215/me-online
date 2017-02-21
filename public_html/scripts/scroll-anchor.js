@@ -1,13 +1,14 @@
-$(document).ready(function(e) {
+$(document).ready(function(){
+	$('a[href^="#"]').on('click',function (e) {
+		e.preventDefault();
 
-	function scrollToAnchor(aid){
-		var aTag = $("a[name='"+ aid +"']");
-		$('html, body').animate({scrollTop: aTag.offset().top},'slow');
-	}
+		var target = this.hash;
+		var $target = $(target);
 
-	$("#link-5").click(function() {
-		scrollToAnchor("contact");
-		console.log('should be scrolling to contact');
+		$('html, body').stop().animate({
+			'scrollTop': $target.offset().top
+		}, 900, 'swing', function () {
+			window.location.hash = target;
+		});
 	});
-
 });

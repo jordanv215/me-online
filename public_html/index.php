@@ -38,11 +38,11 @@
 
 			<div class="col-xs-12 col-md-12" id = "under-head">
 				<ul class="navbar">
-					<li><a href="#" id="link-1">Root</a></li>
-					<li><a href="#" id="link-2">Content 1</a></li>
-					<li><a href="#" id="link-3">Content 2</a></li>
-					<li><a href="#" id="link-4">Content 3</a></li>
-					<li><a href="#" id="link-5">Contact</a></li>
+					<li><a href="#root">Root</a></li>
+					<li><a href="#content-1">Content 1</a></li>
+					<li><a href="#content-2">Content 2</a></li>
+					<li><a href="#content-3">Content 3</a></li>
+					<li><a href="#contact">Contact</a></li>
 				</ul>
 			</div>
 
