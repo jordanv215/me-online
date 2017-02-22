@@ -63,13 +63,17 @@
 			<div class="col-xs-12 col-md-12" id = "content-1">
 				<div class="content">
 					<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata </p>
-					<div class="window"></div>
+					<div class="window">
+						<img src="images/pattern-2.png" alt="luxury pattern 2">
+					</div>
 				</div>
 			</div>
 			<div class="col-xs-12 col-md-12" id = "content-2">
 				<div class="content">
 					<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna.</p>
-					<div class="window"></div>
+					<div class="window">
+						<img src="images/pattern-4.png" alt="luxury pattern 3">
+					</div>
 				</div>
 			</div>
 			<div class="col-xs-12 col-md-12" id = "content-3">

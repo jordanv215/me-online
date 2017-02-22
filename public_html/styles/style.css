@@ -81,13 +81,20 @@ div.content p{
 }
 
 .window{
-	border: 1px solid black;
+	border: 3px solid black;
 	width: auto;
-	min-height: 95vh;
+	height: auto;
+	max-height: 95vh;
 	min-width: 65vw;
 	display: inline;
 	float: right;
 	margin: 12px auto auto 5px;
+}
+
+.window img{
+	height:100%;
+	width:100%;
+
 }
 
 #root, #content-1, #content-2, #content-3, #contact{
