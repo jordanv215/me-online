@@ -21,3 +21,7 @@ The Wireframes are also a little basic. It is hard for me to see a unifying stra
 You are free to begin working on milestone 2b, but I recommend maybe spending a little more time ironing out the final details of the project before you begin.
 
 grade tier III 
+
+
+
+### Milestone 2b feedback - Tier 3. 
